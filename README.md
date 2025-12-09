@@ -30,7 +30,7 @@ Therefore onclick() INCREMENT button, function increment() is called and on the 
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/mwambao/qr-code-component)
+- Github repo URL: [Github repo URL](https://github.com/mwambao/passenger-counter-app)
 - Live Site URL: [Live Site URL](https://qr-code-component-owino.vercel.app/)
 
 ## My process
